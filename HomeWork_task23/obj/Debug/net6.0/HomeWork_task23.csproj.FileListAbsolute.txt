@@ -1,0 +1,15 @@
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/bin/Debug/net6.0/HomeWork_task23
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/bin/Debug/net6.0/HomeWork_task23.deps.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/bin/Debug/net6.0/HomeWork_task23.runtimeconfig.json
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/bin/Debug/net6.0/HomeWork_task23.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/bin/Debug/net6.0/HomeWork_task23.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.csproj.AssemblyReference.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.AssemblyInfoInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.AssemblyInfo.cs
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.csproj.CoreCompileInputs.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/refint/HomeWork_task23.dll
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.pdb
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/HomeWork_task23.genruntimeconfig.cache
+/Users/selena/Downloads/Student IT/Seminar_massiv_functions/Workout_2/HomeWork_task23/obj/Debug/net6.0/ref/HomeWork_task23.dll
